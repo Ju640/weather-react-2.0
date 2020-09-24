@@ -22,14 +22,6 @@ function App() {
                 </button>
               </div>
             </div>
-            <div className="row">
-              <div className="col-6"></div>
-              <div className="col-6">
-                <button className="currentLocation">
-                  <i className="fas fa-map-marker-alt"></i> Current Location
-                </button>
-              </div>
-            </div>
 
             <h1 className="cityName">Paris</h1>
             <p className="date-today">Today - September 24th</p>
